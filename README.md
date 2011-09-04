@@ -3,7 +3,8 @@ UITableView (Custom Section, Header, Footer) controller instead of PSListItemsCo
 ![](http://dl.dropbox.com/u/149268/shf.png)
 
 ##Usage
-Root class's plist must implement same `key` and `id` property for get specifier object and save.
+Root class's plist must implement same `key` and `id` property for get specifier object and save.  
+Change DataSource.plist and `- (NSString *)keyID` method.
 
 ##License (MIT)
 
