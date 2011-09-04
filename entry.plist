@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "SleipnizerSettings";
+		cell = PSLinkCell;
+		detail = "RootPreferenceController";
+		icon = "SleipnizerforSafari.png";
+		isController = 1;
+		label = "Sleipnizer for Safari";
+	};
+}
